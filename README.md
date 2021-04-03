@@ -30,6 +30,13 @@ Apabila ada dua selector yang sama, maka selector yang terakhir kemunculannya ya
 <img width="955" alt="1" src="https://user-images.githubusercontent.com/81343412/113469318-dd03d600-9476-11eb-9890-22fbdd76598a.PNG">
 * Jadi kesimpulannya adalah Pengaturan yang bagian awal seolah-oleh ditimpah oleh style yang baru
 
+# ID dan Class dua dua nya bisa dipanggil secara berbarengan asalkan sesuai dengan codenya class di panggil dengan "." dan ID di  panggil dengan tanda "#"
+<img width="201" alt="x" src="https://user-images.githubusercontent.com/81343412/113470999-af715980-9483-11eb-9d3a-3954c4a7af18.PNG">
+<img width="154" alt="Capture" src="https://user-images.githubusercontent.com/81343412/113470997-ac766900-9483-11eb-9ac8-c12fbc5010ac.PNG">
+<img width="215" alt="d" src="https://user-images.githubusercontent.com/81343412/113471057-0840f200-9484-11eb-82a7-b06a6d9826da.PNG">
+
+
+
 
 
 
