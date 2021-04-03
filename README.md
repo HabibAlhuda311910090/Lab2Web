@@ -17,11 +17,15 @@
 
 # Perbedaan antara pendeklarasian h1{...} dengan #intro h1{...}
 prioritas paling mendasar yang harus di pahami adalah bahwa id penyeleksi lebih diutamakan daripada class penyeleksi. Alasannya, #intro lebih diutamakan adalah karena sesuatu yang disebut spesifisitas. contoh menggunakan #intro 
-<img width="200" alt="2" src="https://user-images.githubusercontent.com/81343412/113468894-60bbc380-9473-11eb-9aed-3d29610d74e7.PNG"> hasilnya sebagai berikut
+<img width="955" alt="2" src="https://user-images.githubusercontent.com/81343412/113468894-60bbc380-9473-11eb-9aed-3d29610d74e7.PNG"> hasilnya sebagai berikut
 <img width="955" alt="1" src="https://user-images.githubusercontent.com/81343412/113468906-6d401c00-9473-11eb-8588-b2a2085ddd60.PNG">
 dan ini tidak menggunakan #intro 
-<img width="200" alt="3" src="https://user-images.githubusercontent.com/81343412/113468924-8ba61780-9473-11eb-8f1d-5d9dfbc73222.PNG"> maka hasilnya 
+<img width="955" alt="3" src="https://user-images.githubusercontent.com/81343412/113468924-8ba61780-9473-11eb-8f1d-5d9dfbc73222.PNG"> maka hasilnya 
 <img width="956" alt="3" src="https://user-images.githubusercontent.com/81343412/113468928-93fe5280-9473-11eb-930b-426d7f0dd0b4.PNG">
+
+
+
+
 
 
 
