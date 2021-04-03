@@ -22,9 +22,13 @@ prioritas paling mendasar yang harus di pahami adalah bahwa id penyeleksi lebih 
 dan ini tidak menggunakan #intro 
 <img width="955" alt="3" src="https://user-images.githubusercontent.com/81343412/113468924-8ba61780-9473-11eb-8f1d-5d9dfbc73222.PNG"> maka hasilnya 
 <img width="956" alt="3" src="https://user-images.githubusercontent.com/81343412/113468928-93fe5280-9473-11eb-930b-426d7f0dd0b4.PNG">
+* Jadi kesimpulannya adalah lebih diutamakan menggunakan #intro, jika tanpa #intro itu background secara menyeluruh akan terkena dampak dari warna tersebut.
 
-
-
+# Urutan Penerapan Aturan CSS Apabila ada dua atau lebih aturan CSS yang diterapkan pada elemen yang sama, maka perlu diketahui yang manakah yang akan dipakai oleh elemen tersebut? 
+Apabila ada dua selector yang sama, maka selector yang terakhir kemunculannya yang akan dipakai style nya. Misalnya pada bari awal sebuah file CSS anda mengatur sebuah elemen <a> selanjutnya diikuti oleh pengaturan elemen-elemen yang lain. Kemudian pada beberapa baris sebelum baris terakhir, anda mengatur kembali elemen <a> tersebut dan berisi property dengan value berbeda dari yang sebelumnya, maka style yang terakhir ini yang akan dipakai. 
+<img width="955" alt="4" src="https://user-images.githubusercontent.com/81343412/113469312-d2e1d780-9476-11eb-9a1a-25499057146a.PNG">
+<img width="955" alt="1" src="https://user-images.githubusercontent.com/81343412/113469318-dd03d600-9476-11eb-9890-22fbdd76598a.PNG">
+* Jadi kesimpulannya adalah Pengaturan yang bagian awal seolah-oleh ditimpah oleh style yang baru
 
 
 
